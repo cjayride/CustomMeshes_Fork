@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\bin\Debug\net480\CustomMeshes.dll
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\bin\Debug\net480\CustomMeshes.pdb
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\bin\Debug\net480\AssimpNet.dll
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMe.BF9A5A4C.Up2Date
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.dll
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.pdb
