@@ -1,0 +1,10 @@
+{
+    "name": "CustomMeshes",
+    "version_number": "0.4.0",
+    "website_url": "https://github.com/aedenthorn/ValheimMods/tree/master/CustomMeshes",
+    "description": "Fork of aedenthorn's CustomMeshes for v0.217.46+ Allows you to replace object meshes with imported model files.",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1700",
+		"cjayride-AssimpLibaries-0.1.0"
+    ]
+}
