@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net462\CustomMeshes.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net462\CustomMeshes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net462\CustomMeshes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net462\CustomMeshes.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net462\CustomMeshes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net462\CustomMeshes.sourcelink.json

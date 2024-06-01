@@ -9,3 +9,4 @@ C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debu
 C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMe.BF9A5A4C.Up2Date
 C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.dll
 C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.pdb
+C:\Users\Administrator\Documents\Valheim-Modding\CustomMeshes_Fork-main\obj\Debug\net480\CustomMeshes.sourcelink.json

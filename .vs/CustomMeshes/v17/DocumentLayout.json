@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{ACE7EF64-1D37-40FB-AE8F-8ABB448DDD5C}|CustomMeshes.csproj|c:\\users\\administrator\\documents\\valheim-modding\\custommeshes_fork-main\\custommeshes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{ACE7EF64-1D37-40FB-AE8F-8ABB448DDD5C}|CustomMeshes.csproj|solutionrelative:custommeshes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE7EF64-1D37-40FB-AE8F-8ABB448DDD5C}|CustomMeshes.csproj|c:\\users\\administrator\\documents\\valheim-modding\\custommeshes_fork-main\\valheim.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACE7EF64-1D37-40FB-AE8F-8ABB448DDD5C}|CustomMeshes.csproj|solutionrelative:valheim.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -29,7 +33,20 @@
               "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CustomMeshes_Fork-main\\CustomMeshes.csproj",
               "RelativeToolTip": "CustomMeshes.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-31T16:10:55.221Z",
+              "WhenOpened": "2024-06-01T00:51:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "valheim.targets",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CustomMeshes_Fork-main\\valheim.targets",
+              "RelativeDocumentMoniker": "valheim.targets",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CustomMeshes_Fork-main\\valheim.targets",
+              "RelativeToolTip": "valheim.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-01T00:51:25.917Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "BepInExPlugin.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\Valheim-Modding\\CustomMeshes_Fork-main\\BepInExPlugin.cs",
               "RelativeToolTip": "BepInExPlugin.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAeAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T16:03:22.061Z",
               "EditorCaption": ""
